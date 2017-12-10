@@ -1,15 +1,17 @@
 ---
 layout: post
-title: "Como quase cai num golpe no Facebook e como desviar deles"
-date: 2017-09-10 12:26:40
-image: 'http://res.cloudinary.com/dm7h7e8xj/image/upload/c_fill,h_399,w_760/v1503153729/golpe_ghb84o.jpg'
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-category: 'life'
+title: "UIN Sultan Syarif Kasim Riau"
+date: 2017-12-8 12:26:40
+image: 'http://1.bp.blogspot.com/-msxRTZ-UoBc/T6P3jdAT0fI/AAAAAAAAAWw/Ce6gZY2vBYY/s1600/logo+baru+uin+suska+riau.jpg'
+description: Mengulas mengenai Kampus Madani di Provinsi Riau.
+category: 'Campus'
 tags:
-- life
-- tips
-twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-introduction: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- Campus
+- Madani
+- Islam
+- UIN
+twitter_text: Mengulas mengenai Kampus Madani di Provinsi Riau.
+introduction: Mengulas mengenai Kampus Madani di Provinsi Riau. Universitas Islam Negeri Sultan Syarif Kasim Riau (disebut juga UIN Suska Riau) adalah Universitas Islam Negeri yang berada di Pekanbaru. Penamaannya dengan Sultan Syarif Kasim yaitu nama sultan ke-12 atau sultan terakhir Kesultanan Siak Sri Inderapura..
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
